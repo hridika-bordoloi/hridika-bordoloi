@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Hridika Bordoloi
 
-<!--
-**hridika-bordoloi/hridika-bordoloi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner Web Developer  
+📚 Learning DSA in C++  
+🚀 Building projects and improving daily  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- HTML
+- C++
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Portfolio
+https://hridika-bordoloi.github.io/portfolio-website/
+
+
+## 🔗 Connect With Me
+https://www.linkedin.com/in/hridika-bordoloi-a566293b3/
